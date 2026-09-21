@@ -4,6 +4,15 @@ An end-to-end geospatial machine learning pipeline designed to quantify urban he
 
 ---
 
+## 🗺️ Live Interactive Map
+
+Explore the full spatial analysis, surface temperature hotspots, and street-level intervention points directly in your browser:
+
+👉 **[Launch Interactive Hyderabad Heat Map](https://Pranay-1403.github.io/urban-heat-island-modeling/hyderabad_urban_heat_map.html)**
+
+
+---
+
 ## Project Overview
 
 Rapid urban expansion drives localized temperature spikes due to asphalt, concrete density, and diminished vegetation canopy. This project integrates multitemporal satellite imagery from Landsat 8/9 to:
@@ -63,7 +72,7 @@ Rapid urban expansion drives localized temperature spikes due to asphalt, concre
 
 ```
 
----
+
 
 
 
